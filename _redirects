@@ -1,3 +1,6 @@
+# main website
+/w    https://www.workingdraftbeer.com/    302
+
 # For customer-facing web menus
 /m    https://menu.workingdraftbeer.com/    302
 /tap    https://menu.workingdraftbeer.com/on-tap/    302
