@@ -1,0 +1,7 @@
+# For customer-facing web menus
+/m    https://menu.workingdraftbeer.com/    302
+/tap    https://menu.workingdraftbeer.com/on-tap/    302
+/can    https://menu.workingdraftbeer.com/in-can/    302
+
+# Take-in food information
+/cf    https://menu.workingdraftbeer.com/carry-in-food/    302
