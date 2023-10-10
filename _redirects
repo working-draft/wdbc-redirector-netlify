@@ -8,3 +8,6 @@
 
 # Take-in food information
 /cf    https://menu.workingdraftbeer.com/carry-in-food/    302
+
+# table qr's
+/table  https://menu.workingdraftbeer.com/table/    302
