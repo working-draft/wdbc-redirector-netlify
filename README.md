@@ -1,2 +1,2 @@
-# qrcode-redirector-netlify
-Basic configs to manage redirects for wdqr.us domain
+# wdbc-redirector-netlify
+Basic configs to manage redirects for wdbc.us domain
