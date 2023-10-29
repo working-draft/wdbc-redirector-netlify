@@ -1,6 +1,9 @@
 # main website
 /w    https://www.workingdraftbeer.com/    302
 
+
+# ----------------------------------------------------------
+
 # For customer-facing web menus
 /m    https://menu.workingdraftbeer.com/    302
 /tap    https://menu.workingdraftbeer.com/on-tap/    302
@@ -11,3 +14,14 @@
 
 # table qr's
 /table  https://menu.workingdraftbeer.com/table/    302
+
+# ----------------------------------------------------------
+#
+# admin / backend stuff
+#
+# projector shortcuts
+/pa  https://menu.workingdraftbeer.com/a/m/a/    302
+/pb  https://menu.workingdraftbeer.com/a/m/b/    302
+/pc  https://menu.workingdraftbeer.com/a/m/c/    302
+/pd  https://menu.workingdraftbeer.com/a/m/slides/    302
+
