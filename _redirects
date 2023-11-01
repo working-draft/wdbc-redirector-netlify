@@ -15,6 +15,10 @@
 # table qr's
 /table  https://menu.workingdraftbeer.com/table/    302
 
+# coaster qr
+/co    https://www.workingdraftbeer.com/    302
+
+
 # ----------------------------------------------------------
 #
 # admin / backend stuff
@@ -23,5 +27,5 @@
 /pa  https://menu.workingdraftbeer.com/a/m/a/    302
 /pb  https://menu.workingdraftbeer.com/a/m/b/    302
 /pc  https://menu.workingdraftbeer.com/a/m/c/    302
-/pd  https://menu.workingdraftbeer.com/a/m/slides/    302
+/pd  https://menu.workingdraftbeer.com/a/m/d/    302
 
