@@ -24,6 +24,9 @@
 /j     https://www.workingdraftbeer.com/jobs    302
 /e     https://www.workingdraftbeer.com/events  302
 
+# some one-offs
+/dwc   https://wdbc-to-go-beer.square.site/product/drinking-with-clint-ticket/2158
+
 # ----------------------------------------------------------
 #
 # admin / backend stuff
