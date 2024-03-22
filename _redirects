@@ -18,15 +18,14 @@
 # coaster qr
 /co    https://www.workingdraftbeer.com/    302
 
-# initial cans run
+# initial cans run; the QR on the cans
 /ca    https://www.workingdraftbeer.com/    302
 
 /j     https://www.workingdraftbeer.com/jobs    302
 /e     https://www.workingdraftbeer.com/events  302
 
 # some one-offs
-/dwc   https://wdbc-to-go-beer.square.site/product/drinking-with-clint-ticket/2158
-/e6a   https://wdbc.squarespace.com/events/2024/3/29/working-draft-beer-co-6th-anniversary-weekend
+/e6a   https://www.workingdraftbeer.com/events/2024/3/29/working-draft-beer-co-6th-anniversary-weekend   302
 
 # ----------------------------------------------------------
 #
