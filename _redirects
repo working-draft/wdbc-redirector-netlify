@@ -18,11 +18,20 @@
 # coaster qr
 /co    https://www.workingdraftbeer.com/    302
 
+/j     https://www.workingdraftbeer.com/jobs    302
+/e     https://www.workingdraftbeer.com/events  302
+/puf     https://www.workingdraftbeer.com/events?category=food  302
+
+# ----------------------------------------------------------
+# various landing pages
+# 
+# good to start those with an "l"
+
 # initial cans run; the QR on the cans
 /ca    https://www.workingdraftbeer.com/    302
 
-/j     https://www.workingdraftbeer.com/jobs    302
-/e     https://www.workingdraftbeer.com/events  302
+# shelf talker printouts
+/lst   https://wdbc.squarespace.com/land/shelf-talker    302
 
 # some one-offs
 /e6a   https://www.workingdraftbeer.com/events/2024/3/29/working-draft-beer-co-6th-anniversary-weekend   302
