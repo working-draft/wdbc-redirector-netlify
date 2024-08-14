@@ -44,6 +44,13 @@
 #
 # admin / backend stuff
 #
+
+# websites
+/dashboard  https://dashboard.workingdraftbeer.com/    302
+/dash  https://dashboard.workingdraftbeer.com/    302
+/db  https://dashboard.workingdraftbeer.com/    302
+/tools  https://tools.workingdraftbeer.com/    302
+
 # projector shortcuts
 /pa  https://menu.workingdraftbeer.com/a/m/a/    302
 /pb  https://menu.workingdraftbeer.com/a/m/b/    302
@@ -52,4 +59,6 @@
 # for the slideshow sequence:
 /ps  https://menu.workingdraftbeer.com/a/m/s/    302
 # the tv
-/tv  https://menu.workingdraftbeer.com/a/m/outside-drinks/    302
+/tv  https://menu.workingdraftbeer.com/a/m/t/    302
+
+
