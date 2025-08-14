@@ -39,6 +39,9 @@
 # lego night rules
 /lru  http://www.workingdraftbeer.com/lego-night-rules
 
+# upcoming blood drives at wdbc
+/give-blood   https://www.redcrossblood.org/give.html/drive-results?order=DATE&range=10&zipSponsor=workingdraftbeerco    302
+
 # some one-offs
 /e6a   https://www.workingdraftbeer.com/events/2024/3/29/working-draft-beer-co-6th-anniversary-weekend   302
 /dwc  https://checkout.square.site/merchant/5FR0ACB7SEN2M/checkout/CXMSFCDHVDXYB3OW436MFCAQ  302
